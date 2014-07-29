@@ -5,6 +5,9 @@
 JavaScript application to search and view details for Tor relays and bridges. All the data comes from the [Tor onionoo API](https://onionoo.torproject.org/). Uses [Ember.js](http://emberjs.com/) as JavaScript framework.
 Inspired by the official [Tor Atlas](https://atlas.torproject.org/).
 
+This fork was created to improve the design of Globe. It was inspired by [a post on the Tor Project blog](https://blog.torproject.org/blog/looking-front-end-web-developers-network-status-websites-atlas-and-globe). It is maintained by:
+* [William Papper](http://papper.me/)
+
 Tor Onionoo Search is not affiliated with the Tor project. "Tor" and the "Onion Logo" are registered trademarks of The Tor Project, Inc.
 
 ##Use the application [![Build Status](https://travis-ci.org/makepanic/globe.png?branch=master)](https://travis-ci.org/makepanic/globe)
