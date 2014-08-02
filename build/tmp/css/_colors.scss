@@ -1,0 +1,41 @@
+$white: #fff;
+$white-darker: #F7F7F7;
+
+$grey-lighter: #F4F4F4;
+$grey-lightest: lighten($grey-lighter, 10%);
+$grey: #F0EDEE;
+$grey-darker: darken($grey, 5%);
+$grey-darkest: #999;
+
+$black: #363636;
+$black-darker: darken($black, 10%);
+$black-lighter: lighten($black, 10%);
+$black-lightest: lighten($black, 30%);
+
+$blue: #92B5E5;
+$blue-darker: darken($blue, 10%);
+$blue-darker-darker: darken($blue-darker, 30%);
+$blue-lighter: lighten($blue, 10%);
+$blue-lighter-lighter: lighten($blue-lighter, 30%);
+
+$green: #aed6ac;
+$green-darker: darken($green, 10%);
+$green-lighter: lighten($green, 10%);
+$green-darkest: darken($green, 30%);
+
+$orange: #EB5F3A;
+$orange-darker: darken($orange, 10%);
+$orange-lighter: lighten($orange, 10%);
+
+$red: #c96f67;
+
+$purple: #7c62a0;
+$purple-darker: darken($purple, 10%);
+$purple-darkest: darken($purple, 20%);
+$purple-light: #ab93cb;
+$grey: #eeeeee;
+
+$d3-category10-0: #1f77b4;
+$d3-category10-1: #ff7f0e;
+$d3-category10-2: #2ca02c;
+$d3-category10-3: #d62728;
